@@ -39,14 +39,6 @@ Problem Solving • System Design
 
 ---
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/chetna123-ch/chetna123-ch/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🎯 Current Focus  
 
 - Strengthening Python & Data Structures  
