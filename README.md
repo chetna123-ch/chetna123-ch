@@ -1,68 +1,94 @@
-<h1 align="center">Chetna Gehlot</h1>
-<h3 align="center">Aspiring AI Engineer | B.Tech Student</h3>
-
+<!-- AI THEMED BANNER -->
 <p align="center">
-Passionate about Building Intelligent Systems
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Chetna%20Gehlot&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20|%20Future%20ML%20Specialist&descAlignY=55&descAlign=50"/>
 </p>
+
+<h3 align="center">🚀 Building My Journey Towards Artificial Intelligence</h3>
 
 ---
 
 ## 👩‍💻 About Me  
 
-I am currently on my journey to become an AI Engineer.  
-I have built a strong technical foundation by learning both development technologies and core programming concepts.
-
-My focus is on creating scalable and intelligent systems through continuous learning and practical implementation.
+- 🎓 B.Tech Student  
+- 🤖 Started AI/ML journey with strong fundamentals  
+- 🐍 Completed Python & NumPy  
+- 📈 Currently strengthening DSA & problem solving  
+- 🎯 Goal: Become a skilled AI Engineer  
 
 ---
 
-## 🛠️ Skills & Technologies  
+## 🛠️ Tech Stack  
 
-### 💻 Frontend Development  
+### 💻 Web Foundation  
 HTML • CSS • JavaScript  
 
-### ⚙️ Core Concepts  
-System Design • Problem Solving  
-
-### 🐍 Programming & AI Foundation  
+### 🐍 Programming & AI  
 Python • NumPy  
 
----
-
-## 🎯 Current Focus  
-
-- Strengthening Python & Data Structures  
-- Exploring Data Science Libraries  
-- Moving towards Machine Learning  
+### ⚙️ Core  
+Problem Solving • System Design  
 
 ---
 
-## 📈 AI Roadmap  
+# 📊 GitHub Stats  
 
-✔ HTML, CSS, JavaScript  
-✔ System Design  
-✔ Python  
-✔ NumPy  
-⬜ Data Structures & Algorithms  
-⬜ Machine Learning  
-⬜ Deep Learning  
-⬜ AI Projects  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
 
-## 🚀 Career Vision  
-
-To build scalable AI systems and contribute to innovative solutions in Artificial Intelligence and Machine Learning.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📫 Connect With Me  
+# 📈 AI Roadmap Progress  
 
-📎 LinkedIn: https://www.linkedin.com/in/chetna-gehlot-26ab5832b/  
-📧 Email: chetnagehlot2006@gmail.com  
+### 🐍 Python  
+██████████ 100%
+
+### 📊 NumPy  
+██████████ 100%
+
+### 🧠 Data Structures  
+██████░░░░ 60%
+
+### 🤖 Machine Learning  
+██░░░░░░░░ 20%
+
+### 🧠 Deep Learning  
+█░░░░░░░░░ 10%
+
+---
+
+# 🎯 2026 Goals  
+
+- 🔥 300+ DSA Problems  
+- 📂 5 AI Projects  
+- 🌍 Open Source Contribution  
+- 🧠 Strong ML Fundamentals  
+
+---
+
+# 📫 Connect With Me  
+
+💼 LinkedIn  
+https://www.linkedin.com/in/chetna-gehlot-26ab5832b/
+
+📧 Email  
+chetnagehlot2006@gmail.com  
 
 ---
 
 <p align="center">
-<i>“Consistency beats talent when talent doesn’t work hard.”</i>
+✨ <i>Consistency + Discipline = AI Engineer</i> ✨
+</p>
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
