@@ -2,63 +2,67 @@
 <h3 align="center">Aspiring AI Engineer | B.Tech Student</h3>
 
 <p align="center">
-Passionate about Artificial Intelligence • Building Strong Foundations • Future ML Specialist
+Passionate about Building Intelligent Systems
 </p>
 
 ---
 
 ## 👩‍💻 About Me  
 
-I am a B.Tech student currently building my foundation to become an AI Engineer.  
-My journey has officially started with Python, focusing on core programming concepts and logical thinking.
+I am currently on my journey to become an AI Engineer.  
+I have built a strong technical foundation by learning both development technologies and core programming concepts.
 
-I strongly believe that **strong fundamentals create powerful engineers.**
+My focus is on creating scalable and intelligent systems through continuous learning and practical implementation.
 
 ---
 
-## 🌱 Currently Learning  
+## 🛠️ Skills & Technologies  
 
-- Python Basics  
-- Programming Logic  
-- Problem Solving  
+### 💻 Frontend Development  
+HTML • CSS • JavaScript  
+
+### ⚙️ Core Concepts  
+System Design • Problem Solving  
+
+### 🐍 Programming & AI Foundation  
+Python • NumPy  
 
 ---
 
 ## 🎯 Current Focus  
 
-- Mastering Python  
-- Strengthening Data Structures & Algorithms  
-- Preparing for AI & Machine Learning Core Concepts  
+- Strengthening Python & Data Structures  
+- Exploring Data Science Libraries  
+- Moving towards Machine Learning  
 
 ---
 
-## 🚀 Future Goals  
+## 📈 AI Roadmap  
 
-- Learn NumPy, Pandas & Matplotlib  
-- Dive Deep into Machine Learning  
-- Build Real-World AI Projects  
-- Contribute to Open Source  
+✔ HTML, CSS, JavaScript  
+✔ System Design  
+✔ Python  
+✔ NumPy  
+⬜ Data Structures & Algorithms  
+⬜ Machine Learning  
+⬜ Deep Learning  
+⬜ AI Projects  
 
 ---
 
-## 📈 AI Journey Roadmap  
+## 🚀 Career Vision  
 
-✔ Step 1: Started Python  
-⬜ Step 2: NumPy  
-⬜ Step 3: Machine Learning  
-⬜ Step 4: Deep Learning  
-⬜ Step 5: AI Engineer  
+To build scalable AI systems and contribute to innovative solutions in Artificial Intelligence and Machine Learning.
 
 ---
 
 ## 📫 Connect With Me  
 
-- LinkedIn: (Add your LinkedIn link here)  
-- Email: (Add your email here)  
+📎 LinkedIn: https://www.linkedin.com/in/chetna-gehlot-26ab5832b/  
+📧 Email: chetnagehlot2006@gmail.com  
 
 ---
 
 <p align="center">
-⭐ <i>Every expert was once a beginner. Today is my beginning.</i>
+<i>“Consistency beats talent when talent doesn’t work hard.”</i>
 </p>
-
