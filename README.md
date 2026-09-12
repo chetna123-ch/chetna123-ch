@@ -200,6 +200,59 @@ I enjoy working with real-world datasets, finding patterns in data, building ML 
 
 # 🚀 Featured Projects
 
+## ❤️ Heart Disease Prediction
+
+**Machine Learning • Classification • EDA • Feature Engineering**
+
+A machine learning project focused on predicting the likelihood of heart disease using relevant medical and demographic features.
+
+### 🔍 What I worked on
+
+* 📊 Exploratory Data Analysis
+* 🧹 Data preprocessing
+* 🛠️ Feature Engineering
+* 🔢 Categorical Encoding
+* 📈 Feature & Correlation Analysis
+* 🤖 Classification Model
+* 📊 Model Evaluation
+* 🔎 Prediction & Insights
+
+<p>
+<a href="https://github.com/chetna123-ch/heart-disease-prediction">
+<img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://heart-disease-prediction-chetna.streamlit.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-36BCF7?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📞 Customer Churn Prediction
+
+**Machine Learning • Classification • EDA • Feature Engineering**
+
+An end-to-end machine learning project focused on identifying customers who are likely to churn using customer and service-related data.
+
+### 🔍 What I worked on
+
+* 📊 Exploratory Data Analysis
+* 🧹 Data Cleaning & Preprocessing
+* 🛠️ Feature Engineering
+* 🔢 Categorical Encoding
+* 📈 Data Visualization
+* 🤖 Classification
+* 📊 Model Evaluation
+* 🔎 Churn Prediction & Analysis
+
+<p>
+<a href="YOUR_CHURN_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
 ## 🏥 Insurance Charge Prediction
 
 **Machine Learning • Regression • EDA • Feature Engineering**
@@ -219,44 +272,9 @@ A machine learning project that predicts insurance charges based on demographic 
 
 <p>
 <a href="https://github.com/chetna123-ch/insurance-charge-prediction">
-<img src="https://img.shields.io/badge/View%20Project-36BCF7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-
----
-
-## 📞 Customer Segmentation & Churn Analysis
-
-**Data Science • Unsupervised Learning • Supervised Learning**
-
-An end-to-end machine learning workflow combining customer segmentation with churn prediction.
-
-### 🧠 Concepts
-
-* Exploratory Data Analysis
-* Customer Segmentation
-* Clustering
-* Feature Engineering
-* Classification
-* Model Evaluation
-* Data Visualization
-
----
-
-## 🚢 Titanic Survival Prediction
-
-**Machine Learning • Classification • Data Preprocessing**
-
-A classification project focused on predicting passenger survival using structured historical data.
-
-### 🧩 Concepts
-
-* Data Cleaning
-* Missing Value Handling
-* Categorical Encoding
-* Feature Selection
-* Logistic Regression
-* Classification Evaluation
 
 ---
 
@@ -267,6 +285,9 @@ A classification project focused on predicting passenger survival using structur
 An astronomy-focused website combining web development with an interest in space and science.
 
 <p>
+<a href="https://github.com/chetna123-ch/astronova">
+<img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 <a href="https://chetna123-ch.github.io/astronova/">
 <img src="https://img.shields.io/badge/Live%20Demo-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
